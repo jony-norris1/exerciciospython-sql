@@ -24,6 +24,7 @@ for i in range(1, 11):
        print(i)
 
 Pergunta 4: 
+
 def verifica_par(numero):
 if numero % 2 == 0:
     return True
@@ -31,6 +32,7 @@ else:
     return False
 
 Pergunta 5: 
+
 numero = int(input("Digite um número inteiro: "))
 
 if numero > 0:
